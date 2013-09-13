@@ -1,4 +1,4 @@
 angular-todo
 ============
 
-Angular JS Todo List
+Angular JS Todo
